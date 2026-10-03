@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "woork 1 oop سالم احمد باسليمان/1.0.0": {
+        "runtime": {
+          "woork 1 oop سالم احمد باسليمان.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "woork 1 oop سالم احمد باسليمان/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

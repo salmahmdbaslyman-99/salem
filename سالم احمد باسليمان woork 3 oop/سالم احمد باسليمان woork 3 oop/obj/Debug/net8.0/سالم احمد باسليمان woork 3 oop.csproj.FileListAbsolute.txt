@@ -1,0 +1,14 @@
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\bin\Debug\net8.0\سالم احمد باسليمان woork 3 oop.exe
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\bin\Debug\net8.0\سالم احمد باسليمان woork 3 oop.deps.json
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\bin\Debug\net8.0\سالم احمد باسليمان woork 3 oop.runtimeconfig.json
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\bin\Debug\net8.0\سالم احمد باسليمان woork 3 oop.dll
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\bin\Debug\net8.0\سالم احمد باسليمان woork 3 oop.pdb
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.AssemblyInfoInputs.cache
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.AssemblyInfo.cs
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.csproj.CoreCompileInputs.cache
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.dll
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\refint\سالم احمد باسليمان woork 3 oop.dll
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.pdb
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\سالم احمد باسليمان woork 3 oop.genruntimeconfig.cache
+D:\سالم احمد\سالم احمد باسليمان woork 3 oop\سالم احمد باسليمان woork 3 oop\obj\Debug\net8.0\ref\سالم احمد باسليمان woork 3 oop.dll

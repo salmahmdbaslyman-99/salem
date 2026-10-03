@@ -1,0 +1,14 @@
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.GeneratedMSBuildEditorConfig.editorconfig
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.AssemblyInfoInputs.cache
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.AssemblyInfo.cs
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.csproj.CoreCompileInputs.cache
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\bin\Debug\net8.0\woork 1 oop سالم احمد باسليمان.exe
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\bin\Debug\net8.0\woork 1 oop سالم احمد باسليمان.deps.json
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\bin\Debug\net8.0\woork 1 oop سالم احمد باسليمان.runtimeconfig.json
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\bin\Debug\net8.0\woork 1 oop سالم احمد باسليمان.dll
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\bin\Debug\net8.0\woork 1 oop سالم احمد باسليمان.pdb
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.dll
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\refint\woork 1 oop سالم احمد باسليمان.dll
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.pdb
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\woork 1 oop سالم احمد باسليمان.genruntimeconfig.cache
+D:\سالم احمد\woork 1 oop سالم احمد باسليمان\woork 1 oop سالم احمد باسليمان\obj\Debug\net8.0\ref\woork 1 oop سالم احمد باسليمان.dll
